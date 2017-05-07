@@ -1,0 +1,8 @@
+*.DS_Store
+*.pyc
+scraper/config.py
+scraper/env
+scraper/data.json
+eye-lighter/people.json
+deploy.sh
+assets/breadboard.psd
